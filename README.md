@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Nidhi 
 - 👀 I’m interested in ...singing 
 - 🌱 I’m currently learning ...web development,c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...https://www.linkedin.com/in/nidhi-pandey-01ba01289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 😄 Pronouns: ...(she/her)
 - ⚡ Fun fact: ...I think I have a good sense of humour
 
 <!---
